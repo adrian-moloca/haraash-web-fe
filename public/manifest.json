@@ -1,0 +1,25 @@
+{
+  "short_name": "Haraash",
+  "name": "Haraash marketplace",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "50x50",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "200x200.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    },
+    {
+      "src": "50x50.png",
+      "type": "image/png",
+      "sizes": "50x50"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
